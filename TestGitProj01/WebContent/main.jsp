@@ -13,6 +13,11 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+<<<<<<< HEAD
 <h2>나는 Main화면 입니다.</h2>
+=======
+<h2>나는 Main화면 입니다. </h2>
+<h3>집에서 Main도 작업했음.</h3>
+>>>>>>> branch 'master' of https://github.com/legna0116/githurb.git
 </body>
 </html>
