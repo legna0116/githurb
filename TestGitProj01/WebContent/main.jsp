@@ -13,6 +13,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h2>나는 Main화면 입니다. </h2>
+<h2>나는 Main화면 입니다.</h2>
 </body>
 </html>
